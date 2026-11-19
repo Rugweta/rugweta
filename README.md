@@ -23,6 +23,27 @@ We provide practical support shaped around the needs of each enterprise:
 - **Practical support:** We keep guidance clear, useful, and free of unnecessary jargon.
 - **Shared growth:** We believe stronger local enterprises contribute to a stronger wider economy.
 
+## Technology we're exploring
+
+Our services and careers page point to practical opportunities to explore:
+
+- **Farm records and traceability** to support planning, record keeping, and produce tracking.
+- **Spatial tools and GIS** for field data, mapping, and environmental practice.
+- **Digital product development and market access** to help local businesses reach customers.
+- **Business operations and analysis** for finance, inventory, and project workflows.
+- **Blockchain for traceability** as a research area only; we would first check whether shared records solve a real problem better than simpler, lower-cost tools.
+
+### Open-source applications to learn from
+
+These GitHub projects are examples to evaluate, not tools Rugweta has adopted:
+
+- [farmOS](https://github.com/farmOS/farmOS) — farm record keeping for crops, livestock, equipment, and field activities.
+- [QField](https://github.com/opengisch/QField) — mobile GIS for collecting and working with field data.
+- [Open Food Network](https://github.com/openfoodfoundation/openfoodnetwork) — online trading and food-hub tools that connect producers, distributors, and consumers.
+- [ERPNext](https://github.com/frappe/erpnext) — business software for accounting, inventory, CRM, and project management.
+
+Any future pilot should be assessed for local connectivity and offline use, ease of adoption, data ownership, support costs, and licensing.
+
 ## Careers
 
 Interested in helping Zimbabwean farms and small businesses succeed? Visit the [careers section](https://rugweta.com/#careers) to learn about opportunities and submit your CV.
