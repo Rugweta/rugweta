@@ -1,16 +1,34 @@
-## Hi there 👋
+# Rugweta
 
-<!--
-**Rugweta/rugweta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Helping local farms and small businesses grow stronger.**
 
-Here are some ideas to get you started:
+Rugweta is a Zimbabwean company working alongside farmers and small business owners to help them run their enterprises well and earn better returns.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Visit rugweta.com](https://rugweta.com) · [Talk to our team](https://rugweta.com/#contact) · [Explore careers](https://rugweta.com/#careers)
+
+## What we do
+
+We provide practical support shaped around the needs of each enterprise:
+
+- **Farm business support** — planning, record keeping, and connecting produce with buyers and markets.
+- **Business development** — growing operations, finding customers, and reaching new opportunities.
+- **Marketing and branding** — helping people find and trust local products.
+- **Finance and analysis** — budgeting and clear insight into business finances.
+- **Environmental practice** — responsible approaches that help protect land for the long term.
+- **Project and product support** — running projects smoothly and developing products for customers.
+
+## How we work
+
+- **Community first:** We build lasting relationships with the people behind local farms and businesses.
+- **Practical support:** We keep guidance clear, useful, and free of unnecessary jargon.
+- **Shared growth:** We believe stronger local enterprises contribute to a stronger wider economy.
+
+## Careers
+
+Interested in helping Zimbabwean farms and small businesses succeed? Visit the [careers section](https://rugweta.com/#careers) to learn about opportunities and submit your CV.
+
+## Contact
+
+- **Email:** [hello@rugweta.com](mailto:hello@rugweta.com)
+- **Location:** Harare, Zimbabwe
+- **Website:** [rugweta.com](https://rugweta.com)
